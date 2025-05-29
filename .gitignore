@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+data_practice/Scripts/
+data_practice/Lib/
+data_practice/pyvenv.cfg
+data_practice/Include/
+data_practice/share/
+data_practice/
